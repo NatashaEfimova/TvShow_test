@@ -1,0 +1,4 @@
+# TvShow_test
+
+Thank you for an interesting task! In the process of writing this test, I encountered the fact that I am not familiar with BDD, but I spent a lot of time learning this methodology and tools. In particular, I tried very hard to deal with the cucumber and the Gerkin language, as I studied a lot of information and came to the conclusion that this tool is good for this methodology. Unfortunately, I was not able to fully implement everything exactly as the use of this tool implies, but I learned a lot of new things, I am very interested, and I want to know and be able to do more. However, the test is working.
+In the writing of the test, I had difficulties with locators, I wanted to use others, but for some reason, the test did not work, nevertheless, I found a solution, and the test worked. The problem is due to the large number of ads on the site, the page does not have time to load.
